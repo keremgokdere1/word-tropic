@@ -1,3 +1,5 @@
+google.com, pub-2245658308876901, DIRECT, f08c47fec0942fa0
+
 Privacy Policy for Word Tropic
 
 Last updated: July 4, 2026
